@@ -20,7 +20,7 @@
 var numero = prompt("digite um número");
 
 var dez = 10;
-var teste = "";
+var teste = "2";
 console.log(parseInt(numero) + dez);
 console.log(parseFloat(numero) + dez);
 console.log(Number(numero) + dez);
